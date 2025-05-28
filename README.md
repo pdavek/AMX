@@ -55,5 +55,9 @@ This way, if the move to east runs into a wall [#], it will go south. If safe, i
 The game is early development mode, and only includes two maps in maps.py
 You can freely add more custom maps, and the game will automatically increment as you play.
 
+# Recommend dark themed terminal!
+
+The colors I used complient a dark background and are unreadable on light. I recommend plaing on dark or changing the color in Mess class. (Mess=Message)
+
 Enjoy it.
 
