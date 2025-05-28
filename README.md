@@ -41,18 +41,19 @@ if mve == # then mvs else mve
 ```
 This way, if the move to east runs into a wall [#], it will go south. If safe, it will simply execute to east.
 
-# The general blocks in the game:
+## The general blocks in the game:
 
-### [X] - Standard terrain
-### [R] - Rover
-### [S] - Sample drilling area
-### [B] - Starbase. Sample needs to be returned here and the rover before the next mission
-### [?] - Unmapped territory, can result in some battery boost or battery drain when unlucky
-### [@] - Fast charging station
+##### [X] - Standard terrain
+##### [R] - Rover
+##### [S] - Sample drilling area
+##### [B] - Starbase. Sample needs to be returned here and the rover before the next mission
+##### [?] - Unmapped territory, can result in some battery boost or battery drain when unlucky
+##### [@] - Fast charging station
+
 ##### more to come with further updates.
 
 The game is early development mode, and only includes two maps in maps.py
 You can freely add more custom maps, and the game will automatically increment as you play.
 
-Enjoy
+Enjoy it.
 
